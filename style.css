@@ -1,0 +1,49 @@
+body{
+    background-image: url("page_background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#watchContainer{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin-top: 4%;
+    margin-left: 25%;
+    border: 2px solid black;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100px;
+    padding: 5%; 
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 10px 10px lightgray;
+}
+#displayTime{
+    font-size: 3rem;
+    color: white;
+    font-family: monospace;
+    width:90%;
+    padding: 2%;
+    background-color: black;
+    border-radius: 40px;
+    border: 1px solid lightgray;
+    word-wrap: normal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5%;
+    
+}
+#buttonContainer{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    margin-top: 2%;
+    justify-content: space-evenly;
+    width: 90%;
+}
+
