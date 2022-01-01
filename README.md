@@ -1,5 +1,9 @@
 # Stopwatch
-A simple Stopwatch developed using Vanilla JS and styled using CSS, which ***starts, stops and resets*** the timer.
+A simple Stopwatch developed using Vanilla JS and styled using CSS, which ***starts, stops and resets*** the timer. 
+
+The link to the final hosted webpage is : https://saumyasingh20.github.io/Stopwatch/ 
+
+
 
 The display timer remains set to '00:00:00:000' initially i.e. (HH:MM:SS:MS) and changes according to the button clicked.
 
